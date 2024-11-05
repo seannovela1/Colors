@@ -67,3 +67,14 @@ header nav ul li a {
     padding: 0.5rem 1rem;
     cursor: pointer;
 }
+.elements button:hover {
+    background-color: var(--secondary-color);
+}
+
+.elements h3 {
+    color: var(--secondary-color);
+}
+
+.elements p {
+    color: #333;
+}
